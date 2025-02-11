@@ -46,8 +46,9 @@ A web-based travel advisory and booking platform, built using **C#, ASP.NET, HTM
  ┣ 📄 Global.asax      # Global event handlers
  ┣ 📄 Web.config       # Application configuration
  ┗ 📜 README.md        # Project Documentation
+```
 
-## 🏃‍♂Getting Started  
+## Getting Started  
 
 ### Prerequisites  
 - .NET Framework  
@@ -58,6 +59,7 @@ A web-based travel advisory and booking platform, built using **C#, ASP.NET, HTM
    ```sh
    git clone https://github.com/yourusername/TravelBooking.git
    cd TravelBooking
+   ```
 2. Open the project in Visual Studio and restore dependencies.
 3. Run the application and access it via http://localhost:PORT/.
 
