@@ -33,7 +33,7 @@ A web-based travel advisory and booking platform, built using **C#, ASP.NET, HTM
 
 ---
 
-## 🏗️ Project Structure  
+## Project Structure  
 
 ```bash
 📂 TravelBooking/
