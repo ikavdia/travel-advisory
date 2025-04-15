@@ -1,0 +1,1 @@
+﻿   <%@ ServiceHost Language="C#" Debug="true" Service="TravelBooking.HotelService" CodeBehind="HotelService.svc.cs" Factory="System.ServiceModel.Activation.WebServiceHostFactory" %>
